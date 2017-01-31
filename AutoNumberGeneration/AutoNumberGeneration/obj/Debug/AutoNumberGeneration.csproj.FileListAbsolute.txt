@@ -1,0 +1,9 @@
+c:\users\administrator.crmmazik\documents\visual studio 2015\Projects\AutoNumberGeneration\AutoNumberGeneration\obj\Debug\AutoNumberGeneration.csprojResolveAssemblyReference.cache
+C:\Users\Administrator.CRMMAZIK\documents\visual studio 2015\Projects\AutoNumberGeneration\AutoNumberGeneration\bin\Debug\AutoNumberGeneration.dll
+C:\Users\Administrator.CRMMAZIK\documents\visual studio 2015\Projects\AutoNumberGeneration\AutoNumberGeneration\bin\Debug\AutoNumberGeneration.pdb
+C:\Users\Administrator.CRMMAZIK\documents\visual studio 2015\Projects\AutoNumberGeneration\AutoNumberGeneration\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\Administrator.CRMMAZIK\documents\visual studio 2015\Projects\AutoNumberGeneration\AutoNumberGeneration\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\Administrator.CRMMAZIK\documents\visual studio 2015\Projects\AutoNumberGeneration\AutoNumberGeneration\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Users\Administrator.CRMMAZIK\documents\visual studio 2015\Projects\AutoNumberGeneration\AutoNumberGeneration\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Users\Administrator.CRMMAZIK\documents\visual studio 2015\Projects\AutoNumberGeneration\AutoNumberGeneration\obj\Debug\AutoNumberGeneration.dll
+C:\Users\Administrator.CRMMAZIK\documents\visual studio 2015\Projects\AutoNumberGeneration\AutoNumberGeneration\obj\Debug\AutoNumberGeneration.pdb
