@@ -1,0 +1,9 @@
+E:\MazikCare\Source\CRM\Plugin\Duplicate Detection\DuplicateDetection\bin\Release\DuplicateDetection.dll
+E:\MazikCare\Source\CRM\Plugin\Duplicate Detection\DuplicateDetection\bin\Release\DuplicateDetection.pdb
+E:\MazikCare\Source\CRM\Plugin\Duplicate Detection\DuplicateDetection\bin\Release\Microsoft.Crm.Sdk.Proxy.dll
+E:\MazikCare\Source\CRM\Plugin\Duplicate Detection\DuplicateDetection\bin\Release\Microsoft.Xrm.Sdk.dll
+E:\MazikCare\Source\CRM\Plugin\Duplicate Detection\DuplicateDetection\bin\Release\Microsoft.Crm.Sdk.Proxy.xml
+E:\MazikCare\Source\CRM\Plugin\Duplicate Detection\DuplicateDetection\bin\Release\Microsoft.Xrm.Sdk.xml
+E:\MazikCare\Source\CRM\Plugin\Duplicate Detection\DuplicateDetection\obj\Release\DuplicateDetection.dll
+E:\MazikCare\Source\CRM\Plugin\Duplicate Detection\DuplicateDetection\obj\Release\DuplicateDetection.pdb
+E:\MazikCare\Source\CRM\Plugin\Duplicate Detection\DuplicateDetection\obj\Release\DuplicateDetection.csprojResolveAssemblyReference.cache
